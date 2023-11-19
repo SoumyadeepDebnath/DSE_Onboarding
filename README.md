@@ -1,2 +1,3 @@
-# Data Engineering with Python
-All necessary of python codes required for Data Science journey
+# Data Engineering
+## Python, SQL, PySpark
+All necessary of codes required for Data Engineering journey
